@@ -13,10 +13,10 @@ A simple command-line Tic Tac Toe game built using C++. This project demonstrate
 
 Player X's turn. Enter position (1-9): 5
 
- X |   |  
+ X   |     |  
 -----------
-   | O |  
+ |   O     |  
 -----------
-   |   | X
+ |   |     X
 
 Player O wins!
